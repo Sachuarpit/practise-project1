@@ -1,0 +1,29 @@
+package acessmodifier;
+
+public class acessmodifier {
+
+	public static void main(String[] args) {
+		
+	}
+		public int publicVar; 
+		
+	   // private int privateVar; 
+	    
+	    protected int protectedVar; 
+	    
+	    int defaultVar; 
+
+	    public void publicMethod() {
+	        
+	    }
+
+	   // private void privateMethod()
+	      
+	    protected void protectedMethod() {
+	        
+	    }
+
+	    void defaultMethod() {
+	        
+	    }
+	}
